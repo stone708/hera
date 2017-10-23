@@ -16,3 +16,6 @@ On Windows:
 
 tomcat、junit运行时会从默认路径加载cacerts文件，如果main函数直接运行需要指定javax.net.ssl.trustStore文件路径，比如： 
 java -Djavax.net.ssl.trustStore=$JAVA_HOME/jre/lib/security/cacerts -jar XXX.jar & 
+
+
+https://stackoverflow.com/questions/17712417/how-to-configure-truststore-for-javax-net-ssl-truststore-on-windows
