@@ -19,3 +19,5 @@ java -Djavax.net.ssl.trustStore=$JAVA_HOME/jre/lib/security/cacerts -jar XXX.jar
 
 
 https://stackoverflow.com/questions/17712417/how-to-configure-truststore-for-javax-net-ssl-truststore-on-windows
+
+tesseract  hOCR
