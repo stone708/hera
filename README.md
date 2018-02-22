@@ -1,6 +1,7 @@
 # hera
 
 https://github.com/avwo/whistle
+https://github.com/100apps/charles-hacking
 
 hera is new project to automation
 https://github.com/restsharp/RestSharp
