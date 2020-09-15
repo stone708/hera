@@ -33,3 +33,28 @@ Deliver Secure Collaboration — By integrating PrizmDoc Viewer into existing ap
 It can be extremely time-consuming to keep up with evolving user expectations, regulatory requirements, and file format complexity. That’s why many development teams decide to integrate an HTML5 viewer instead of developing one in-house. PrizmDoc Viewer offers the ability to streamline key functions and enhance security with HTML5-native support to deliver document viewing, annotation, redaction, and conversion on-demand. 
 
 Ready to jump start your PrizmDoc Viewer development? Get started with our Docker evaluation here. To learn more about PrizmDoc Viewer and all of its unique features and functions, download our What is an HTML5 Viewer? whitepaper to learn more.
+
+
+Benefits of an HTML5 Image Viewer
+Supports a wide range of file types
+A robust HTML5 viewer also supports file types both abundant (PDFs and JPGs, for instance) and relatively obscure, such as extremely high-resolution DICOM medical images and CAD drawing files.
+
+This flexibility also means that multiple documents (Microsoft Office files such as spreadsheets, Word documents and PowerPoint data files, etc.) can all be opened within a single application that features the HTML5 viewer. This saves RAM, makes operations more efficient and reduces the need for licenses to use the various software packages involved.
+
+Protects Ownership and File Integrity
+Displaying documents and files within a single web-based viewer also gives developers greater control over the information being displayed, a key concern for many organizations. Developers can configure the viewer to restrict downloading, printing, or editing files based on the permissions of the individual user. Clients are always looking for ways to enhance data security, and the fewer applications that access that data, the better.
+
+Saves on External Software Costs
+If your organization is purchasing software licenses (for packages such as Microsoft Office or AutoCAD) for every employee who needs to view files, an HTML5 viewer can reduce costs significantly. Rather than purchasing licenses for each user, simply integrate an HTML5 viewer into your system and every user can view any file – without needing any additional software licenses!
+
+Allows Annotation
+Another important feature that has made HTML5 viewers popular for users is annotation. This facilitates the collaboration process by allowing multiple users to mark up a document or image with comments or graphics, emphasizing specific areas of interest for the group.
+
+Supports Search, Redaction, and eSignatures
+Other user-friendly traits of HTML5 viewers commonly include search, redaction and electronic signature functionality. The ability to search large files (and catalog results) is a common request of users, as well as the option to hide sensitive data such as financial and health information. The need to have users acknowledge viewing and understanding terms of a document gave rise to the eSignature process that modern viewers also offer.
+
+Improved Image Viewing with Zoom
+HTML5 viewers make for a positive user experience for more basic reasons as well. Their zooming function makes images and documents easier to read or to discern fine details, a huge benefit for medical and engineering applications. A modern viewer also enhances the professional look and feel of any web page or application.
+
+Image Enhancement Functionality
+Advanced viewers also aid in the refining of images, an important consideration for physicians, construction engineers and other professionals. Line thickening, for instance, is an innovation especially helpful for CAD and other vector-based images. Color sharpening and gamma adjusting, which can enhance faint images such as low-quality scans, are also features of an HTML5 viewer that were previously unavailable.
