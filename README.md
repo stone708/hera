@@ -1,3 +1,16 @@
+Easy integration
+and endless possibilities
+⚊ Just write a few lines of code and it's done.
+⚊ Match user preferences by enabling or disabling client features.
+⚊ Javascript API to control all UI features and appearance.
+⚊ Server side API with 2000+ functionalities.
+
+ Fast, secure, beautiful, and featured control.
+⚊ Handle any documents from any source.
+⚊ High quality display for raster and vector documents.
+⚊ Works in all modern browsers and devices.
+
+
 What are the benefits of an HTML5 document viewer?
 Accusoft’s PrizmDoc Viewer offers industry-leading HTML5 functionality, making it the viewer of choice for developers, integrators, and system administrators looking to enhance document viewing, collaboration, and security without increasing their workload.
 
