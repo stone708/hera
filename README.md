@@ -23,3 +23,5 @@
 			<artifactId>logstash-logback-encoder</artifactId>
 			<version>6.3</version>
 		</dependency>
+South China University of Technology
+Bachelor|Information management and information systems
