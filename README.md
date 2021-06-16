@@ -25,3 +25,10 @@
 		</dependency>
 South China University of Technology
 Bachelor|Information management and information systems
+
+Contributed software engineering expertise in the development of products through the software lifecycle, from requirment definition through successul deployment.
+Excelled at rapid application development and management of technological issues for assigned projects, earning the highest customer satisfaction rating for all software soluctions delivered.
+Lead the architecture and development in one new web application (MVC, Entity Framework, repository pattern)
+Worked on multiply legcy systems adding value according to the requirments (C$, WCF, VB)
+
+Played a key role in developing 
